@@ -1,0 +1,9 @@
+dbschema/edgeql-js
+
+# Project exclude paths
+/app-configuration/server-actions.js
+/types/type-aliases.js
+/types/type-unions.js
+/mouldit-backend.js
+/query.js
+/server.js
